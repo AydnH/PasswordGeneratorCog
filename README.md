@@ -7,7 +7,7 @@ As input parameters the user must provide the minimum length,�
 the number of numbers and the number of passwords that shall be created.
 Then generate the passwords and return them in an array. Please also consider to add unit tests.
 
-user - user set parameters length minimum (set upper limit to 28) = number - user set special characters = number - user set number of numbers = number - user set number of passwords = number - return passwords into array
+user - user set parameters length minimum = number - user set special characters = number - user set number of numbers = number - user set number of passwords = number - return passwords into array
 
 TO USE
 
