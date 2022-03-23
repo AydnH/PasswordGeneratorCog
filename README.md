@@ -13,6 +13,7 @@ TO USE
 
 - clone repository
 - npm install inside main directory
+- set options in terminal -- see example uses
 
 options :
 
