@@ -8,9 +8,8 @@ function randomInteger(min, max) {
 
 const createDummyString = (length, syms, non) => {
     const rndInt = randomInteger(0, 10);
-    console.log(rndInt);
     const lettersLength = +length + +rndInt;
-    console.log(lettersLength);
+
     let characters = '';
     // get random symbols based on number requested
     for( let i = 0; i < syms; i++) {
